@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "500565142636",
+    "project_id": "leyton-7142a",
+    "storage_bucket": "leyton-7142a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500565142636:android:30edbff87db08d9be1bc49",
+        "android_client_info": {
+          "package_name": "com.example.leyton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500565142636-evq9mebo2lcmq70ia59n8t63ffgak0ms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1qIEtQUJfP6j2A7vCR7mzA44K_a4qRV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500565142636-evq9mebo2lcmq70ia59n8t63ffgak0ms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
